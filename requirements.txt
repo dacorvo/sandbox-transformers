@@ -1,0 +1,5 @@
+transformers
+einops
+accelerate
+bitsandbytes
+scipy
