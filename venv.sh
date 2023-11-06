@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 venv_path=$(pwd)/hf_venv
 if [ ! -d $venv_path ]; then
     python3 -m venv hf_venv
